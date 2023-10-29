@@ -1,1 +1,1 @@
-print("Arslaan!")
+print("Arslaan is cool!")
