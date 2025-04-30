@@ -1,1 +1,1 @@
-print("Arslaan is cool!")
+print("Arslaan Pathan - xminecrafterfun+inquires@gmail.com")
