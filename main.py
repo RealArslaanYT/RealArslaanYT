@@ -1,1 +1,1 @@
-print("Arslaan Pathan - xminecrafterfun+inquires@gmail.com")
+print("Arslaan Pathan - https://arslaan3102.justlearning.net")
